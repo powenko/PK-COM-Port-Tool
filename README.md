@@ -2,6 +2,7 @@
 
 A multilingual COM Port connection and data transmission/receiving tool, built with Python Tkinter GUI. Supports Windows/macOS/Linux.
 
+![APP](1.png)
 ## Features
 - Automatically detects available COM ports, supports auto connect/disconnect
 - Multilingual support (English, Traditional Chinese, Simplified Chinese, Spanish, Portuguese)
