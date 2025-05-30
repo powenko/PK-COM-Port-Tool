@@ -40,6 +40,12 @@ Website: [www.powenko.com](http://www.powenko.com)
 
 ![APP](en.png)
 
+## 💡 Support This Project
+
+If you find this project helpful, please consider supporting the author **Powen Ko**.  
+Your donation helps maintain and improve open-source software, create high-quality tutorials, and contribute to the developer community.
+
+[![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/ncp/payment/4W7NYVPYLUHBQ)
 
 ---
 
@@ -85,3 +91,9 @@ Powen Ko
 ## 螢幕截圖 
 
 ![APP](zh-tw.png)
+## 💡 支持這個專案
+
+如果您覺得這個專案對您有幫助，歡迎支持作者 **Powen Ko**。  
+您的捐款將協助我們持續維護與改進開源工具，創作高品質的教學內容，並推動技術社群的成長。
+
+[![透過 PayPal 捐款](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/ncp/payment/4W7NYVPYLUHBQ)
