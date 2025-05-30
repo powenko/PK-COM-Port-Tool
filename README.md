@@ -2,7 +2,8 @@
 
 A multilingual COM Port connection and data transmission/receiving tool, built with Python Tkinter GUI. Supports Windows/macOS/Linux.
 
-![APP](1.png)
+![APP](en.png)
+
 ## Features
 - Automatically detects available COM ports, supports auto connect/disconnect
 - Multilingual support (English, Traditional Chinese, Simplified Chinese, Spanish, Portuguese)
@@ -45,6 +46,8 @@ Website: [www.powenko.com](http://www.powenko.com)
 # COM Port Tool
 
 多國語言的 COM Port 連線與資料傳送/接收工具，使用 Python Tkinter 製作 GUI，支援 Windows/macOS/Linux。
+
+![APP](zh-tw.png)
 
 ## 主要功能
 - 自動偵測可用 COM port，支援自動連線/斷線
